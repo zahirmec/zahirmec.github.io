@@ -1,1 +1,5 @@
 
+User-agent: *
+Allow: /
+
+Sitemap: https://zahirmec.github.io/sitemap.xml
